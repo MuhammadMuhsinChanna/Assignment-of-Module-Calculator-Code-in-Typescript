@@ -1,11 +1,4 @@
 // subtraction 
-//  function subtraction(){
-//     let Sub: number = 5674 - 889
-//     let Sub2: number = 784 - 784
-//     console.log(Sub, Sub2)
-//  }
-//  subtraction()
-//  export default subtraction
 
 var prompt = require ('prompt-sync')();
 //
